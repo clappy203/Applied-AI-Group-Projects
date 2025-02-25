@@ -39,7 +39,6 @@ git clone <https://github.com/clappy203/Applied-AI-Group-Projects/tree/stagebran
 
 **7. Run Jupyter Notebook in vscode**
       Navigate to the data_analysis_new.ipynb file to begin exploring the dataset.
-
 ---
 
 ### Data Exploration and Prediction
@@ -78,3 +77,8 @@ We formulate hypotheses to analyze the relationship between obesity and factors 
 **7. Conclusion & Recommendations**
 - Data-driven interventions are crucial to mitigating obesity risk.
 - Future research should incorporate longitudinal data for causal inference.
+---------
+
+### **Project Management**
+Kanban Board: https://github.com/users/clappy203/projects/1/views/1
+

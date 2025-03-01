@@ -6,13 +6,12 @@
 This repository hosts a collaborative project for the Applied Artificial Intelligence course (AAI-500-03), focusing on probability and statistical analysis in AI. Our current project aims to predict obesity levels using data from the UCI Machine Learning Repository.
 
 ### **About the Obesity Dataset**
-The dataset contains demographic, anthropometric, dietary, and behavioral attributes to explore the relationship between obesity and various genetic, lifestyle, and dietary factors.
-1. Our analysis includes:
-2. Generating Hypotheses
-3. Data Cleaning & Preparation
-4. Exploratory Data Analysis (EDA)
-5. Descriptive Analytics
-6. Predictive Analytics, featuring:
+The dataset contains demographic, anthropometric, dietary, and behavioral attributes to explore the relationship between obesity and various genetic, lifestyle, and dietary factors.Our analysis includes:
+1. Generating Hypotheses
+2. Data Cleaning & Preparation
+3. Exploratory Data Analysis (EDA)
+4. Descriptive Analytics
+5. Predictive Analytics, featuring:
    - Model Selection
    - Model Analysis
    - Conclusion & Recommendations

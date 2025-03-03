@@ -115,7 +115,7 @@ We formulate hypotheses to analyze the relationship between obesity and factors 
   - Random Forest
   - Support Vector Machines (SVM)
   - XGBoost (best performing model, 94.80% accuracy)
-- Model evaluation using accuracy, log-loss, and feature importance
+- Model evaluation using cross-validation (CV) score, accuracy, log-loss, and feature importance
 
 **6. Model Analysis & Insights**
 - **Key Findings:**

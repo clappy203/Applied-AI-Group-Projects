@@ -3,7 +3,7 @@
 # Applied AI Group Project 1
 
 ### **Project Overview**
-This repository hosts a collaborative project for the Applied Artificial Intelligence course (AAI-500-03), focusing on probability and statistical analysis in AI. Our current project aims to predict obesity levels using data from the UCI Machine Learning Repository. Here is a ![link to the reasearch paper] (https://drive.google.com/file/d/1MyrZ4Fwynu6rkM8SO6BYm7R7-A3JLtKh/view?usp=drive_link)
+This repository hosts a collaborative project for the Applied Artificial Intelligence course (AAI-500-03), focusing on probability and statistical analysis in AI. Our current project aims to predict obesity levels using data from the UCI Machine Learning Repository. [Here is a link to the reasearch paper](https://drive.google.com/file/d/1MyrZ4Fwynu6rkM8SO6BYm7R7-A3JLtKh/view?usp=drive_link)
 
 ### **About the Obesity Dataset**
 The dataset contains demographic, anthropometric, dietary, and behavioral attributes to explore the relationship between obesity and various genetic, lifestyle, and dietary factors.Our analysis includes:
